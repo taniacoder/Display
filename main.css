@@ -1,0 +1,48 @@
+.yellow {
+	background: yellow;
+	height: 70px;
+}
+.rojo{
+	background: red;
+	height: 70px;
+}
+
+.yellow1 {
+	background: yellow;
+	height: 70px;
+	margin-bottom: 10px;
+}
+.rojo1{
+	background: red;
+	height: 70px;
+	margin-bottom: 10px;
+}
+
+.yellow2 {
+	background: yellow;
+	height: 70px;
+	width: 200px;
+	display: inline-block;
+	margin-right: 10px;
+
+}
+.rojo2 {
+	background: red;
+	height: 70px;
+	width: 200px;
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.yellow3 {
+	background: yellow;
+	display: inline-block;
+	padding: 5px;
+	
+}
+.rojo3{
+	background: red;
+	display: inline-block;
+	padding: 5px;
+	
+}
